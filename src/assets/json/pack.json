@@ -1,0 +1,27 @@
+{
+  "sfx": {
+    "prefix": "sfx.",
+    "files": [
+      {
+        "type": "audio",
+        "key": "logo",
+        "url": "assets/sound/sfx_logo.ogg"
+      }
+    ]
+  },
+  "ui": {
+    "prefix": "ui.",
+    "files": [
+      {
+        "type": "image",
+        "key": "banner.skyblue",
+        "url": "assets/ui/banner_skyblue.png"
+      },
+      {
+        "type": "image",
+        "key": "loading.splash",
+        "url": "assets/images/logo_xogames.png"
+      }
+    ]
+  }
+}

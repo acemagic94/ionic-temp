@@ -1,0 +1,14 @@
+export const shadowOffsetX = 0
+export const shadowOffsetY = 3
+export const shadowColor = 0xffffff
+export const shadowAlpha = 1
+export const backgroundColor = 0xc4790d
+export const frameColor = 0x4f2d16
+export const frameWidth = 7
+export const frameAlpha = 1
+export const frameOuterColor = 0xffffff
+export const frameOuterWidth = 6
+export const frameOuterAlpha = 1
+export const gaugeColor = 0x95d2e4
+export const dangerGauge = 0.2
+export const dangerGaugeColor = 0xef7f65
